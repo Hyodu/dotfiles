@@ -1,2 +1,45 @@
-# ArchConfig
-A hyprland configuration for saad desktop distrobution [Arch] BTW
+<a id="top"></a>
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Blood&weight=300&size=37&duration=3000&pause=100&color=6391a8&background=601D6E00&center=true&vCenter=true&repeat=true&random=FALSO&width=660&height=90&lines=Hyprland+Dotfiles" alt="Typing SVG"/></a>
+</div>
+
+<br>
+
+<p align="center">My personal customization for my own desktop distribution <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="ARCH"> <ins>[this just ~/.config/hypr/]</ins>.</p>
+
+<div align="center">
+
+<br>
+
+<a href="#install"><kbd> <br> Install <br> </kbd></a>&ensp;&ensp;
+<a href="#updates"><kbd> <br> Updates <br> </kbd></a>&ensp;&ensp;
+
+</div><br><br>
+
+> [!WARNING]
+> If you are planning to install this config in your current working machine, please make sure to take a snap shot of your system. If anything by chance goes wrong, you will be able to go back to your system.
+
+> [!TIP]
+> If you are planning to install this config in your current working machine, please make sure to take a snap shot of your system. If anything by chance goes wrong, you will be able to go back to your system.
+
+
+> [!NOTE]
+>
+> ### Direct Installation
+>
+> You can now easily install the config directly without cloning the repository. Just copy and paste the command bellow in your terminal and run it. Before that, make sure to install `curl`. Install it using pacman, dnf or zypper.
+
+```
+bash <(curl -s https://raw.githubusercontent.com/shell-ninja/hyprconf-install/main/direct_run.sh)
+```
+
+> [!IMPORTANT]
+>
+> After installation, just press the `SUPER + Shift + h`. It will show you all the keybinds.
+
+### See last changes (updates) [here](https://github.com/shell-ninja/hyprconf-install/blob/main/UPDATES.md)
+
+## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=90EE90&vCenter=true&width=435&height=25&lines=THANKS" width="450"/>
+
+I would like to thank [Shell-ninja](https://github.com/shell-ninja). I was inspired from his Hyprland installation scripts and prepared my script. I took and modified some of his scripts and used here.
