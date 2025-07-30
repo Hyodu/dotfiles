@@ -18,16 +18,14 @@
 
 </div>
 <br><br>
-
+ 
 > [!WARNING]
 > If you are planning to install this config in your current working machine, please make sure to take a snap shot of your system. If anything by chance goes wrong, you will be able to go back to your system.
 
 > [!TIP]
-> If you are planning to install this config in your current working machine, please make sure to take a snap shot of your system. If anything by chance goes wrong, you will be able to go back to your system.
-
+> This is just the **~/.config/hypr** folder not the whole dotfiles, to get the whole dotfiles just go to installation and do the command in your terminal then after installing/rebooting you can copy that folder and paste it in your directory
 
 > [!NOTE]
->
 > ### Direct Installation
 >
 > You can now easily install the config directly without cloning the repository. Just copy and paste the command bellow in your terminal and run it. Before that, make sure to install `curl`. Install it using pacman, dnf or zypper.
