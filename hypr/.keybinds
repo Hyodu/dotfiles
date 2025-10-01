@@ -2,6 +2,7 @@
  + Return | open terminal (kitty)
  + SHIFT + Return | open floating terminal (kitty)
  + Q | kill active window
+ + R | change screen orientation
  + D | launch app menu (rofi)
  + W | change wallpaper (Wallpaper.sh)
  + T | change theme (dark/light)
